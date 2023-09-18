@@ -8,7 +8,7 @@ Es como una red social!
 
 Mi colaboración fue en todo el proceso, pero principalmente estuve construyendo el backend del proyecto trabajando con el framework de Django.
   
-## [Flykube](flykube.com)
+## [Flykube](https://www.flykube.com)
 Proyecto privado.
 En los tiempos que colabore con la empresa era un startup, ahora es un empresa más grande.
 Colabore profesionalmente bajo el puesto de desarrollador web, donde mi tarea fue el front-end y otros trabajos como:

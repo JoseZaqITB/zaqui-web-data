@@ -1,14 +1,14 @@
 [
     {
         "title": "Code: Eye Gem",
-        "url_video": "https://youtu.be/kbWgkt9Y9H0",
+        "url_video": "https://www.youtube.com/embed/kbWgkt9Y9H0",
         "url_project": "https://github.com/ArBeemo/Code_EyeGem",
         "resume": "Take on the role of Dherek Allen, a test subject for a technology company who wakes up on a completely unknown planet with incredible resources. The company is EthosTech Group and is there experimenting with mysterious minerals that possess ancient powers, called Ethralis Gems. As the story progresses, you will discover the evil plans that EthosTech Group has for using these gems and you will have to find a way to stop them.",
         "tags": ["UnrealEngine", "RPG"]
     },
     {
         "title": "A 2D Game Engine",
-        "url_video": "https://youtu.be/vhhoSKIeNKA",
+        "url_video": "https://www.youtube.com/embed/vhhoSKIeNKA",
         "url_project": "https://gitlab.com/JoseZaq/juegoSolar",
         "resume": "A 2D game engine built in JAVA, it was created from scratch in order to understand how graphics works. It uses tile-based implementations, animations, interactions, basic AI and UIs",
         "tags": [
@@ -18,7 +18,7 @@
     },
     {
         "title": "A Cooperative Video Game",
-        "url_video": "https://youtu.be/x52B7i9lDeU",
+        "url_video": "https://www.youtube.com/embed/x52B7i9lDeU",
         "url_project": "https://github.com/JoseZaqITB/Zaquinaula_Ramon_JoseAlejandro_ue_server_client",
         "resume": "A networked gameplay build in unreal engine game using blueprint.Play with your friend in a local network and try to finish the game.Go through several challenges.",
         "tags": [
@@ -29,7 +29,7 @@
     },
     {
         "title": "Aim and Throw",
-        "url_video": "https://youtu.be/EjWakAW2eEk",
+        "url_video": "https://www.youtube.com/embed/EjWakAW2eEk",
         "url_project": "https://gitlab.com/JoseZaq/aim-and-throw-unity",
         "resume": "A 2d unity engine game made for Mobile Platforms. Aim the warrior and throw him something, if you hit him you win.",
         "tags": [

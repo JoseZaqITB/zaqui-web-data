@@ -1,0 +1,31 @@
+{
+    "texts": {
+        "personal_stuff": "I'm Jose Zaquinaula, Software Developer.\nAh, technology. It's been the background hum of my life, like elevator music you didn't ask for but can't escape. From an early age, i was surrounded by wires, electric parts, and mysterious blinking lights, most of which i'm reasonably certain were not supposed to catch fire.",
+        "education": "I started with a high school diploma in electronics called \"Bachillerato Tecnico Industrial Electronico\" which is Spanish for \"Congratulations, you're now fluent in the dark arts of circuits\". With that power i built an amazing spider robot on a protoboard using Arduino, because nothing screams \"brilliant inventor\" like creating someting designed to terrify people.\nI had no idea what to do next. So, I did what everyone does when they’re lost—I went to university. Since my diploma screams \"electronics\". I figured electronic engineering was my destiny. I was amazed by how much there was to learn-and so confused too.\nAfter a few years i realized this wasn't tha path for me. So, i quit.But hey, I didn’t leave empty-handed. I came out with a solid base in math, physics, hardware, and software, plus the distinct impression that university professors might be part cyborg.\nI had to restart my life and after much pondering (and a fair bit of procrastination), between multiple options, I settled on programming. I enrolled in a program called (DAM) Desarrollo de Aplicaciones Multiplataforma , which sounds terribly impressive until you realize it roughly translates to “Let’s make apps for everything.” There, I discovered my love for databases, APIs, and frameworks, which is about as romantic as it sounds.\nSomewhere along the way, I decided to level up and specialize in video games and virtual reality.",
+        "life_goals": "I am ready to join a brilliant team where we can build incredible things together. Preferably not more spiders.",
+    },
+    "programmingSkills": [
+        "Generate documentation for a video game",
+        "Develop multiplayer online video games",
+        "Apply artificial intelligence concepts to video games",
+        "Develop virtual and augmented reality applications",
+        "Develop video games in Unreal Engine and Unity",
+        "Design 2D/3D graphics in Blender",
+        "Full stack web development",
+        "Working with various programming languages ​​(JS, TS, Java, Kotlin, Python, C#, C++, Shell)",
+        "Working with various frameworks (React, Django, Android)",
+        "Designing web pages (Figma)",
+        "Creating mobile applications (Android, iOS)",
+        "Creating computer applications (with Java)",
+        "Managing databases (Django, SQL, PostgresQL)",
+        "Using git version control (Gitlab, Github)",
+        "Deploying web pages on a host, cloud platform or deployment (Netlify, Heroku)",
+        "Using Agile methodology (Scrum) for group work (Trello, Airtable, Proofhub)",
+        "Developing IT projects from scratch at the client's request",
+        "Documenting programming projects appropriately",
+        "Creating video games with Unity",
+        "Setting up a collaborative robot",
+        "Managing and administering services with Linux and Windows systems",
+        "Creating a web server with Windows Server",
+    ]
+}

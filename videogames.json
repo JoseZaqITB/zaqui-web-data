@@ -1,19 +1,40 @@
 [
     {
-        "title": "First Game",
-        "url_video": "https://www.youtube.com/embed/Qsxi3aDPJ5w",
-        "url_project": "https://github.com/JoseZaqITB/GuitarNotes",
-        "resume": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing º Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-        "tags": []
+        "title": "Code: Eye Gem",
+        "url_video": "https://www.youtube.com/watch?v=kbWgkt9Y9H0",
+        "url_project": "https://github.com/ArBeemo/Code_EyeGem",
+        "resume": "Take on the role of Dherek Allen, a test subject for a technology company who wakes up on a completely unknown planet with incredible resources. The company is EthosTech Group and is there experimenting with mysterious minerals that possess ancient powers, called Ethralis Gems. As the story progresses, you will discover the evil plans that EthosTech Group has for using these gems and you will have to find a way to stop them.",
+        "tags": ["UnrealEngine", "RPG"]
     },
     {
-        "title": "Second Game",
-        "url_video": "https://www.youtube.com/embed/7b6zYASlSeQ",
-        "url_project": "https://github.com/JoseZaqITB/zettelNotes-memo-pad",
-        "resume": "Maecenas non nunc ut lectus hendrerit lobortis vel eu urna. Phasellus convallis luctus vestibulum. Etiam venenatis a dolor at hendrerit. Sed non fringilla magna. Nullam scelerisque augue vel leo euismod fringilla. Mauris vitae sapien venenatis, aliquet lectus in, tincidunt neque. Integer ac sapien eget neque ultricies semper vitae non lectus. Duis viverra, elit in auctor aliquet, neque purus accumsan nisl, vitae maximus lorem ipsum id neque. Mauris sit amet dolor purus.",
+        "title": "A 2D Game Engine",
+        "url_video": "https://youtu.be/vhhoSKIeNKA?si=wdNQ1f5oBj2DXDsu",
+        "url_project": "https://gitlab.com/JoseZaq/juegoSolar",
+        "resume": "A 2D game engine built in JAVA, it was created from scratch in order to understand how graphics works. It uses tile-based implementations, animations, interactions, basic AI and UIs",
         "tags": [
-            "Rigging",
-            "UnrealEngine"
+            "tile-based",
+            "Java"
+        ]
+    },
+    {
+        "title": "A Cooperative Video Game",
+        "url_video": "https://youtu.be/x52B7i9lDeU?si=O0Zdc1XzAAAma52Q",
+        "url_project": "https://github.com/JoseZaqITB/Zaquinaula_Ramon_JoseAlejandro_ue_server_client",
+        "resume": "A networked gameplay build in unreal engine game using blueprint.Play with your friend in a local network and try to finish the game.Go through several challenges.",
+        "tags": [
+            "UnrealEngine",
+            "Network",
+            "Multiplayer"
+        ]
+    },
+    {
+        "title": "Aim and Throw",
+        "url_video": "https://youtu.be/EjWakAW2eEk?si=pHdS4nsaUUPpFTSt",
+        "url_project": "https://gitlab.com/JoseZaq/aim-and-throw-unity",
+        "resume": "A 2d unity engine game made for Mobile Platforms. Aim the warrior and throw him something, if you hit him you win.",
+        "tags": [
+            "Unity",
+            "Mobile"
         ]
     }
 ]
